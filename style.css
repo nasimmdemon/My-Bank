@@ -1,0 +1,43 @@
+body {
+  padding: 100px;
+}
+#login-area h2 {
+  text-align: center;
+  padding-bottom: 30px;
+}
+#login-area button {
+  text-align: center;
+  font-size: 18px;
+}
+
+.login-area {
+  box-shadow: 5px 5px 10px grey;
+  padding: 50px;
+}
+#bankArea {
+  display: none;
+}
+.common {
+  margin: 0px 20px;
+  color: #fff;
+  padding: 20px 30px;
+  border-radius: 10px;
+}
+.deposit {
+  background-color: slateblue;
+}
+.withdraw {
+  background-color: lightsalmon;
+}
+.balance {
+  background-color: orange;
+}
+
+.my-btn {
+  border: none;
+  outline: none;
+}
+.my-btn:focus {
+  border: none;
+  outline: none;
+}
